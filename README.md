@@ -31,7 +31,7 @@ Write an algorithm to find the height of a binary search tree. What is the time 
 ## 6. Is it a BST?
 Write an algorithm to check whether an arbitrary binary tree is a binary search tree, assuming the tree does not contain duplicates.
 
-7. 3rd largest node
+## 7. 3rd largest node
 Write an algorithm to find the 3rd largest node in a binary search tree.
 
 8. Balanced BST
